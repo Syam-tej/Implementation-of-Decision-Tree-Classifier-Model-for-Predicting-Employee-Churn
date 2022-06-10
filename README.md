@@ -9,11 +9,17 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1.Import pandas library to read csv or excel file.
+
 2.Import LabelEncoder using sklearn.preprocessing library.
+
 3.Transform the data's using LabelEncoder.
+
 4.Import decision tree classifier from sklearn.tree library to predict 5.5.the values.
+
 6.Find accuracy.
+
 7.Predict the values.
+
 8.End of the program.
 
 ## Program:
